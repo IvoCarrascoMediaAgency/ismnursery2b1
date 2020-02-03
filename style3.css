@@ -403,7 +403,9 @@ body{
 
 
 .hul li{
-	margin: 3em 4em;
+	margin: 0 auto;
+    width: 100%;
+    padding-top: 30px;
 	
 }
 
@@ -1684,7 +1686,7 @@ input{
     /* margin-left: auto;
     margin-right: auto; */
     height: 35px;
-    width: 100px;
+    width: 120px;
     /* margin-top: 20%; */
     background: #9b0c23;
     line-height: 35px;
